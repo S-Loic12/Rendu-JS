@@ -128,6 +128,7 @@ a:hover{
     background-color: aquamarine;
     width: 240px;
     border: 1px solid black;
+    border-radius: 5px;
 }
 .B1:hover{
     background-color: aqua;
